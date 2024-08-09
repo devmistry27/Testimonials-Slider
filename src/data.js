@@ -1,3 +1,4 @@
+// src/reviews.js
 const reviews = [
   {
     id: 1,
@@ -37,4 +38,3 @@ const reviews = [
 ];
 
 export default reviews;
-
